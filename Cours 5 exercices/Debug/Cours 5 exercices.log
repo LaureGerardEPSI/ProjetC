@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Coup.cpp
+  Cours 5 exercices.cpp
+  Jeu.cpp
+  Joueur.cpp
+c:\users\laure.gerard\onedrive\documents\cours epsi\b1 - c++\cours 5 exercices\cours 5 exercices\joueur.cpp(15): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\laure.gerard\onedrive\documents\cours epsi\b1 - c++\cours 5 exercices\cours 5 exercices\joueur.cpp(48): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Cours 5 exercices.vcxproj -> C:\Users\laure.gerard\OneDrive\Documents\Cours EPSI\B1 - C++\Cours 5 exercices\Debug\Cours 5 exercices.exe
