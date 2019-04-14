@@ -34,10 +34,6 @@ int main() {
 	// libération de la mémoire
 	plateau->~Jeu();
 
-
-
-
-
 	return 0;
 }
 
